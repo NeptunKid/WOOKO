@@ -6,7 +6,24 @@ CEO为前美空网创始人，技术团队主要来自Google，合伙人在时�
 
 
 ##About
-一群来自时尚圈和技术界的怪咖，在低调地做出某著名（你几乎肯定用过）时尚产品之后，又开始低调地在上海法租界某栋洋楼里，捣鼓更有趣的新玩意儿。
+我们是一群来自时尚圈和技术界的怪咖，在低调地做出某著名（你几乎肯定用过）时尚产品之后，又开始低调地在上海法租界某栋洋楼里，捣鼓更有趣的新玩意儿。
+
+对环境细节的态度一方面反映了我们对所做事情的态度:
+<img src="images/about01.jpg"></img>
+
+<img src="images/about02.jpg"></img>
+
+<img src="images/about03.jpg"></img>
+
+<img src="images/about04.jpg"></img>
+
+<img src="images/about05.jpg"></img>
+
+<img src="images/about06.jpg"></img>
+
+<img src="images/about07.jpg"></img>
+
+<img src="images/about08.jpg"></img>
 
 我们的目标用户对移动App品质有着近乎变态的要求，我们瞄准的行业复杂、美妙而又亟待革命，我们急切地希望把软件和数据技术运用到这个看似离技术很遥远的领域。我们的团队既有产品经验丰富的行业老兵，也有热情满溢折腾不休的工程师，还有来自Google总部的tech adviser，我们都在找你。
 
